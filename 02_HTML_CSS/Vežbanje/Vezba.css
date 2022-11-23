@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(201, 201, 25, 0.973);
+}
+
+h1 {
+    color: darkred;
+}
+
+h3 {
+    color: red;
+}
+
+p {
+    color: purple;
+    font-size: 20px;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+    border: 2px dotted black;
+}
+
+a {
+    margin: 20px;
+    color: orange;
+    font-weight: bold;
+    
+}
+
+.podnaslov {
+    text-align: center;
+}
+
+.para {
+    font-size: 24px;
+    text-align: right;
+}
+
+#naslov_id {
+    text-align: center;
+    color: green;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+a:visited {
+    color: green;
+}
